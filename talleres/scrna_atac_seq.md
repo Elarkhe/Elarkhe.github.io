@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Multiome
+title: Multiome scRNA+scATAC-seq
 parent: Talleres
 nav_order: 3
 ---

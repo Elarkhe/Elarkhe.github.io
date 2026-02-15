@@ -25,7 +25,7 @@ Introducción guiada al análisis de expresión génica a nivel de célula indiv
 Análisis de accesibilidad de cromatina para el estudio de regulación génica.  
 **[Ver ficha del taller](scatac_seq.html)**
 
-### 🟡 Multiome — En desarrollo
+### 🟡 Multiome scRNA-seq + scATAC-seq — En desarrollo
 Integración de datos transcriptómicos y epigenómicos a nivel celular.  
 **[Ver ficha del taller](scrna_atac_seq.html)**
 

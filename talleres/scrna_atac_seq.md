@@ -16,4 +16,4 @@ Integración simultánea de datos transcriptómicos y epigenómicos a nivel celu
 **Modalidad:** presencial u online · **Idioma:** español  
 **Formato:** grupos reducidos · soporte técnico asistido
 
-👉 **Contacto:** elarkhe@gmail.com
+**Contacto:** elarkhe@gmail.com

@@ -8,7 +8,7 @@ nav_order: 2
 # Taller scATAC-seq
 
 {: .label .label-yellow }
-PLANEADO
+EN DESARROLLO
 
 Estudio de accesibilidad de cromatina para identificar regiones regulatorias activas y comprender mecanismos de regulación génica.
 

@@ -8,7 +8,7 @@ nav_order: 3
 # Taller Multiome (scRNA-seq + scATAC-seq)
 
 {: .label .label-yellow }
-PLANEADO
+EN DESARROLLO
 
 Integración simultánea de datos transcriptómicos y epigenómicos a nivel celular para relacionar programas de expresión génica con su contexto regulatorio.
 

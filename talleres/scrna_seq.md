@@ -17,6 +17,6 @@ Análisis de expresión génica a nivel de célula individual para explorar dive
 **Formato:** grupos reducidos · soporte técnico asistido
 
 **Repositorio de referencia:**  
-https://github.com/el-arkhe/scrnaseq-workshop
+[scrnaseq-workshop](https://github.com/el-arkhe/scrnaseq-workshop)
 
 **Contacto:** elarkhe@gmail.com

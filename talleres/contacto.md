@@ -2,10 +2,8 @@
 layout: default
 title: Contacto
 parent: Talleres
-nav_order: 5
+nav_order: 3
 ---
-
-# Contacto
 
 Para solicitar una edición institucional del taller o recibir una propuesta adaptada:
 

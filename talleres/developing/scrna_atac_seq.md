@@ -3,6 +3,7 @@ layout: default
 title: Multiome scRNA+scATAC-seq
 parent: Talleres
 nav_order: 3
+nav_exclude: true
 ---
 
 # Taller Multiome (scRNA-seq + scATAC-seq)

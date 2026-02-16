@@ -3,6 +3,7 @@ layout: default
 title: scRNA-seq
 parent: Talleres
 nav_order: 1
+nav_exclude: true
 ---
 
 # Taller scRNA-seq

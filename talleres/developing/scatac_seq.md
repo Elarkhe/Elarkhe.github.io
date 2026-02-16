@@ -3,6 +3,7 @@ layout: default
 title: scATAC-seq
 parent: Talleres
 nav_order: 2
+nav_exclude: true
 ---
 
 # Taller scATAC-seq

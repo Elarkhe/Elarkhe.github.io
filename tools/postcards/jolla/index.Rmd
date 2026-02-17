@@ -1,10 +1,10 @@
 ---
-title: "El Arkhe: Talleres Multi-Omics"
+title: "Talleres Multi-ómicos"
 image: "el_arkhe_logo_under_512kb.jpg"
 links:
   - label: Indice Talleres
-    url: "https://elarkhe.github.io/talleres/"
-  - label: Modelo de Enseñanza
+    url: "https://elarkhe.github.io/talleres/indice_talleres.html"
+  - label: Enfoque
     url: "https://elarkhe.github.io/talleres/modelo_ensenanza.html"
   - label: Términos
     url: "https://elarkhe.github.io/talleres/terminos_admon.html"

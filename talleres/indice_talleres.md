@@ -24,6 +24,13 @@ Introducción al análisis de accesibilidad de cromatina para el estudio de regu
 Introducción a la integración de datos transcriptómicos y epigenómicos a nivel de célula individual.\
 [**Ver ficha del taller**](/talleres/developing/scrna_atac_seq/)
 
-------------------------------------------------------------------------
+---
 
-[**Contacto**](contacto.html)
+### Contacto
+
+Coordinación general:
+Cynthia S. Cardinault, PhD
+México  
+✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
+
+---

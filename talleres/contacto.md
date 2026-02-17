@@ -15,3 +15,5 @@ Sugerido incluir:
 - modalidad (presencial / online)
 - fechas tentativas
 - perfil del grupo (licenciatura / posgrado / personal técnico)
+
+---

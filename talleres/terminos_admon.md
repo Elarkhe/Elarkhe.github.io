@@ -19,10 +19,3 @@ Los detalles logísticos —incluyendo modalidad, calendario, requerimientos té
 Cualquier ajuste posterior deberá ser consensuado por ambas partes.
 
 ---
-
-### Contacto
-
-**Coordinación general:**  
-**Cynthia S. Cardinault, PhD**  
-México  
-✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)

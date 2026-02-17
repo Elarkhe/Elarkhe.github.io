@@ -4,12 +4,7 @@ title: El Arkhe
 nav_order: 1
 ---
 
----
-layout: default
-title: El Arkhe
-nav_order: 1
----
-
+<!--
 <style>
   .iframe-container {
     position: relative;
@@ -32,6 +27,7 @@ nav_order: 1
     border: 0;
   }
 </style>
+-->
 
 <div class="iframe-container">
   <iframe

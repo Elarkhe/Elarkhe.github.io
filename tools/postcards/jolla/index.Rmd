@@ -3,7 +3,7 @@ title: "Talleres Multi-ómicos"
 image: "el_arkhe_logo_under_512kb.jpg"
 links:
   - label: Indice Talleres
-    url: "https://elarkhe.github.io/talleres/indice_talleres.html"
+    url: "https://elarkhe.github.io/talleres/indice_talleres/"
   - label: Enfoque
     url: "https://elarkhe.github.io/talleres/modelo_ensenanza.html"
   - label: Términos

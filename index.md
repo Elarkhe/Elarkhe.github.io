@@ -47,10 +47,15 @@ México
     src="//clustrmaps.com/map_v2.js?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff&w=a">
   </script>
 </div>
--->
 
 {% include clustrmaps.html %}
+-->
 
+<div style="display:flex; justify-content:center; margin-top:100px; opacity:0.6;">
+  <a href="https://clustrmaps.com/site/1c2m8" title="Visitor map">
+    <img src="https://clustrmaps.com/map_v2.png?d=KL_rxoyvwLLAV8IA3mE1zgoA43OAbDIlda4lFKHNGRU&cl=ffffff" alt="Visitor map"/>
+  </a>
+</div>
 
 
 

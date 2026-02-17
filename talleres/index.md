@@ -19,6 +19,5 @@ has_toc: false
   ></iframe>
 </div>
 
-Propuestas formativas centradas en **análisis de datos multi-ómicos**, impartidas en colaboración con instituciones educativas y especialistas asociados.
 
 

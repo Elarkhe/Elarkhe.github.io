@@ -4,6 +4,7 @@ title: Talleres Multiomics
 nav_order: 2
 has_children: true
 permalink: /talleres/
+toc: false
 ---
 
 Propuestas formativas centradas en **análisis de datos multi-ómicos**, desarrolladas en colaboración con instituciones y especialistas asociados.

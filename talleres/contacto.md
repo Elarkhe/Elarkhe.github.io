@@ -3,6 +3,7 @@ layout: default
 title: Contacto
 parent: Talleres Multiomics
 nav_order: 4
+permalink: /talleres/contacto/
 ---
 
 Para solicitar una edición institucional del taller o recibir una propuesta adaptada:

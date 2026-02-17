@@ -7,29 +7,19 @@ permalink: /talleres/
 toc: false
 ---
 
-Propuestas formativas centradas en **análisis de datos multi-ómicos**, desarrolladas en colaboración con instituciones y especialistas asociados.
+<div class="iframe-container">
+  <iframe
+    src="{{ '/assets/postcards/jolla/index.html' | relative_url }}"
+    title="El Arkhe — Talleres Multi-Omics (postcard)"
+    width="960"
+    height="720"
+    style="max-width:100%; border:0; border-radius:10px;"
+    loading="lazy"
+    allowfullscreen
+  ></iframe>
+</div>
+
+Propuestas formativas centradas en **análisis de datos multi-ómicos**, impartidas en colaboración con instituciones educativas y especialistas asociados.
 
 ------------------------------------------------------------------------
 
-## Talleres disponibles
-
-### ✅ scRNA-seq — Activo
-
-🔎 [Tarjeta interactiva (HTML)](/assets/postcards/jolla/index.html)\
-Introducción guiada al análisis de expresión génica a nivel de célula individual.\
-**Repositorio de referencia:**  
-[scrnaseq-workshop](https://github.com/el-arkhe/scrnaseq-workshop)
-
-### 🟡 scATAC-seq — En desarrollo
-
-Análisis de accesibilidad de cromatina para el estudio de regulación génica.\
-[**Ver ficha del taller**](scatac_seq.html)
-
-### 🟡 Multiome scRNA-seq + scATAC-seq — En desarrollo
-
-Integración de datos transcriptómicos y epigenómicos a nivel celular.\
-[**Ver ficha del taller**](scrna_atac_seq.html)
-
-------------------------------------------------------------------------
-
-[**Contacto**](contacto.html)

@@ -2,7 +2,7 @@
 layout: default
 title: Modelo de Enseñanza
 parent: Talleres Multiomics
-nav_order: 1
+nav_order: 2
 ---
 
 La división *Talleres de ´El Arkhe´* diseña e imparte talleres formativos especializados centrados en el análisis de datos **multi-ómicos** en colaboración con instituciones y especialistas asociados.
@@ -56,14 +56,7 @@ Análisis de expresión génica a nivel de célula individual para explorar dive
 ACTIVO
 [scrnaseq-workshop](https://github.com/el-arkhe/scrnaseq-workshop)
 
----
 
-### Contacto
-
-**Coordinación general:**  
-**Cynthia S. Cardinault, PhD**  
-México  
-✉️ [elarkhe@gmail.com](mailto:elarkhe@gmail.com)
 
 
 

@@ -2,7 +2,7 @@
 layout: default
 title: Términos Administrativos
 parent: Talleres Multiomics
-nav_order: 2
+nav_order: 3
 ---
 
 ### Facturación

@@ -4,7 +4,14 @@ title: El Arkhe
 nav_order: 1
 ---
 
-**Bienvenida/o**
+<p align="center">
+[![Official Site](https://img.shields.io/badge/Official%20Site-El%20Arkhe-0A66C2?style=for-the-badge)](https://elarkhe.github.io)
+[![GitHub Pages](https://img.shields.io/badge/Published%20with-GitHub%20Pages-222222?style=for-the-badge&logo=github)](https://elarkhe.github.io)
+[![Jekyll](https://img.shields.io/badge/Powered%20by-Jekyll-CC0000?style=for-the-badge&logo=jekyll)](https://jekyllrb.com/)
+[![Just the Docs](https://img.shields.io/badge/Documentation-Just%20the%20Docs-5C4EE5?style=for-the-badge)](https://just-the-docs.com/)
+</p>
+
+**Bienvenido a El Árkhe**
 
 
 **El Arkhé** es una plataforma formativa y cultural dedicada a las ciencias ómicas desde múltiples lenguajes. Integra formación especializada, soporte técnico y producción cultural, articulando educación, arte y pensamiento científico como un mismo territorio.

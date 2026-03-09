@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /talleres/modelo_ensenanza/
 ---
 
-La división *Talleres de ´El Arkhe´* diseña e imparte talleres formativos especializados centrados en el análisis de datos **multi-ómicos** en colaboración con instituciones y especialistas asociados.
+La división ´El Arkhe: Talleres Multiomics´ diseña e imparte talleres formativos especializados centrados en el análisis de datos **multi-ómicos** en colaboración con instituciones y especialistas asociados.
 
 Las propuestas formativas privilegian la comprensión profunda de ideas clave por encima de un enfoque exclusivamente técnico o procedimental. El contenido se sustenta en literatura científica contemporánea y en prácticas analíticas reproducibles.
 

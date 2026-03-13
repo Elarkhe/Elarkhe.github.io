@@ -11,7 +11,6 @@ tac: false
 
 <p align="center">
   <img src="https://img.shields.io/badge/talleres--multiomics-training%20program-1ABC9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/cuentos--moleculares-science%20communication-E67E22?style=for-the-badge" />
 </p>
 ## Bienvenid@ a El Árkhe
 

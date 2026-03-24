@@ -10,7 +10,7 @@ plugins:
 search_enabled: true
 nav_sort: case_insensitive
 
-logo: "/assets/img/Multiomics.jpg"
+logo: "/assets/img/banner_arkhe2.jpeg"
 
 heading_anchors: true
 

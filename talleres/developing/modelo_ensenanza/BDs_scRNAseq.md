@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Selección de datos scRNA-seq
-parent: Índice talleres
+parent: Modelo de Enseñanza
 nav_order: 3
-permalink: /talleres/indice_talleres_blogs/BDs_scRNAseq
+permalink: /talleres/modelo_ensenanza/BDs_scRNAseq
 toc: false
 ---
 

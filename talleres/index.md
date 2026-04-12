@@ -36,3 +36,19 @@ Propuestas formativas centradas en **análisis de datos multi-ómicos**, imparti
 - [Contacto](/talleres/contacto/)
 
 
+---
+
+<div style="margin-top:60px;">
+
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=elarkhe.github.io" 
+    alt="visitors"
+    style="opacity:0.8;"
+  />
+
+</div>
+
+<p style="opacity:0.8; margin-top:30px;">
+© 2026 El Arkhé · México
+</p>
+

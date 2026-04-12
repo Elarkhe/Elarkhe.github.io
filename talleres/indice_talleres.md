@@ -25,9 +25,10 @@ Introducción al análisis de expresión génica a nivel de célula individual.
   </a>
 </p>
 
-Conoce nuestro enfoque pedagógico para el entrenamiento en análisis de datos ómicos, y explora nuestra curaduría de datasets para aprendizaje práctico: 
-[**Ver curaduria de datos**](/talleres/indice_talleres_blogs/BDs_scRNAseq.md)
+Conoce nuestro enfoque  pedagógico para el entrenamiento en análisis de datos, y explora nuestra curaduría de datasets para aprendizaje práctico: 
 
+- [Selección estratégica de datos para aprendizaje en scRNA-seq](/talleres/modelo_ensenanza/BDs_scRNAseq/)
+- [Ver curaduria de datos](https://github.com/el-arkhe/scrnaseq-workshop/blob/28c6f97f7d8475dccc95489c478e7b3db399580d/data/README.md)
 
 ---
 
@@ -50,5 +51,19 @@ Introducción a la integración de datos transcriptómicos y epigenómicos a niv
 EN DESARROLLO
 
 
+---
 
+<div style="margin-top:60px;">
+
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=elarkhe.github.io" 
+    alt="visitors"
+    style="opacity:0.8;"
+  />
+
+</div>
+
+<p style="opacity:0.8; margin-top:30px;">
+© 2026 El Arkhé · México
+</p>
 
